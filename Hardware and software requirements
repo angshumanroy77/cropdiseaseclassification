@@ -1,0 +1,32 @@
+# 1.1	Hardware requirements 
+
+  The server and gateway can be on the same machine as Anaconda Repository.
+ 	Processors: Intel® Core™ i7 9th Gen processor 9750H at 2.60 GHz or AMD Ryzen 5 4600H Gen and above
+ 	GPU: Nvidia RTX-2060, 6 GB GDDR6 or above (only RTX enabled Nvidia graphic card) 
+ 	RAM: 16GB and above
+ 	Disk space: 2 to 3 GB and above
+ 	Smartphone with camera (user side i.e., Farmers)
+Note: Analyses running on Project Nodes will be primary driver of resource requirements.
+
+# 2.1	Software requirements
+
+ 	License: Free use and redistribution under the terms of the End User License Agreement - Anaconda® Individual Edition.
+ 	Operating system: Windows 8 or newer, 64-bit macOS 10.13+, or Linux, including Ubuntu, RedHat, CentOS 6+, and others.
+ 	System architecture: Windows- 64-bit x86, 32-bit x86; MacOS- 64-bit x86; Linux- 64-bit x86, 64-bit Power8/Power9.
+ 	Jupyter Notebook installed with the help of Anaconda Navigator.
+ 	Python v3.8 and above.
+ 	Tensorflow v2.2 and Tesnorflow-gpu v2.2 and above.
+ 	Keras v2.3 and keras-gpu v2.3 and above.
+ 	Cuda v10.1 and CuDnn v8.0.5 and above (Note: Install cudnn version with their respective Cuda version).
+
+#2.2	Software requirements (Client-side Server)
+
+ 	License: Free use and redistribution under the terms of the End User License Agreement - Anaconda® Individual Edition.
+ 	Operating system: Windows 8 or newer, 64-bit macOS 10.13+, or Linux, including Ubuntu, RedHat, CentOS 6+, and others.
+ 	System architecture: Windows- 64-bit x86, 32-bit x86; MacOS- 64-bit x86; Linux- 64-bit x86, 64-bit Power8/Power9.
+ 	Jupyter Notebook installed with the help of Anaconda Navigator.
+ 	Python v3.8 and above.
+ 	Tensorflow v2.2 and Tesnorflow-gpu v2.2 and above.
+ 	Keras v2.3 and keras-gpu v2.3 and above.
+ 	Cuda v10.1 and CuDnn v8.0.5 and above (Note: Install cudnn version with their respective Cuda version).
+ 	Communication software for exchange of input and output from server (for farmers).
