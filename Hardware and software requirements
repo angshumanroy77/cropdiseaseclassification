@@ -19,7 +19,7 @@ Note: Analyses running on Project Nodes will be primary driver of resource requi
  	Keras v2.3 and keras-gpu v2.3 and above.
  	Cuda v10.1 and CuDnn v8.0.5 and above (Note: Install cudnn version with their respective Cuda version).
 
-#2.2	Software requirements (Client-side Server)
+# 2.2	Software requirements (Client-side Server)
 
  	License: Free use and redistribution under the terms of the End User License Agreement - Anaconda® Individual Edition.
  	Operating system: Windows 8 or newer, 64-bit macOS 10.13+, or Linux, including Ubuntu, RedHat, CentOS 6+, and others.
